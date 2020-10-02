@@ -1,5 +1,7 @@
 # Hey 👋
 
+---
+
 ### I'm Numan, A Self Taught Web Developer
 
 - 💁 I'm currently learning React!
@@ -7,11 +9,13 @@
 - 🏈 My Goal is to be a Full-Stack Developer.
 - 🎮 Fun Fact: I'm a part-time Gamer too!
 
+---
+
 # Connect with me:
 
 <img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/cute-clipart/344/linkedin.png"/> [LinkedIn]
 
- <br />
+## <br />
 
 ### Languages and Tools I use:
 
@@ -23,5 +27,8 @@
 <img align="left" alt "Rest API" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/603/603197.svg"/>
 <img align="left" alt "Git" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111288.svg"/>
 <img align="left" alt "VS Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
+---
+
+[![Numan's Github stats](https://github-readme-stats.vercel.app/api?username=numanjvd82&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/numanjvd82/
