@@ -5,11 +5,11 @@
 - 💁 I'm currently learning React!
 - ⛵ I really like playing with JavaScript.
 - 🏈 My Goal is to be a Full-Stack Developer.
-  -🎮 Fun Fact: I'm a part-time Gamer too!
+-🎮 Fun Fact: I'm a part-time Gamer too!
 
 # Connect with me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/cute-clipart/344/linkedin.png"/>] [LinkedIn]
+<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/cute-clipart/344/linkedin.png"/> [LinkedIn]
 
  <br />
 
