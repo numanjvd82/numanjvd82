@@ -5,6 +5,7 @@
 - 💁 I'm currently learning React!
 - ⛵ I really like playing with JavaScript.
 - 🏈 My Goal is to be a Full-Stack Developer.
+<br />
 -🎮 Fun Fact: I'm a part-time Gamer too!
 
 # Connect with me:
