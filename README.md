@@ -15,6 +15,6 @@
 
 ### Languages and Tools I use:
 
-<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/cute-clipart/344/linkedin.png"/> HTML
+<img align="left" alt="LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/226/226269.svg"/> HTML
 
 [linkedin]: https://www.linkedin.com/in/numanjvd82/
