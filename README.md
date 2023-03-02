@@ -1,36 +1,40 @@
-# Hey 👋
+# Hey there, I'm Numan! 👋
 
----
+I'm a self-taught web developer with a passion for creating beautiful, responsive websites and web applications. My goal is to become a full-stack developer and to contribute more to open source projects.
 
-### I'm Numan, A Self Taught Web Developer
+## 💻 Technologies & Tools
 
-- 💁 I'm currently learning React!
-- ⛵ I really like playing with JavaScript.
-- 🏈 My Goal is to be a Full-Stack Developer and to Contribute more to open source.
-- 🎮 Fun Fact: I'm a part-time Gamer too!
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-yellow?style=flat-square&logo=Node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Figma](https://img.shields.io/badge/-Figma-2C2D72?style=flat-square&logo=figma)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
----
+## 💼 Work with Me
 
-# Connect with me:
+If you're interested in working with me on a MERN stack development project, I'm currently offering my services on [Fiverr](https://www.fiverr.com/numanjvd82).
 
-<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/cute-clipart/344/linkedin.png"/> [LinkedIn]
+My gig offers MERN stack development services with either TypeScript or JavaScript. I'm passionate about building high-quality and scalable web applications using modern technologies.
 
-## <br />
+Feel free to check out my Fiverr gig and contact me if you're interested in working together!
 
-### Languages and Tools I use:
 
-<img align="left" alt="HTML" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg"/>
-<img align="left" alt "CSS" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg"/>
-<img align="left" alt "JS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" alt "Sass" width="35px" src="src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
-<img align="left" alt "React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-<img align="left" alt "Rest API" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/603/603197.svg"/>
-<img align="left" alt "Git" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111288.svg"/>
-<img align="left" alt "VS Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-<br />
+## 🎮 Fun Fact
 
----
+I'm a part-time gamer too! When I'm not coding, you can find me playing games like Valorant and FIFA.
 
-[![Numan's Github stats](https://github-readme-stats.vercel.app/api?username=numanjvd82&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## 📈 GitHub Stats
 
-[linkedin]: https://www.linkedin.com/in/numanjvd82/
+[![Numan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=numanjvd82&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/numanjvd82)
+
+## 📫 Get In Touch
+
+- LinkedIn: [linkedin.com/in/numanjvd82](https://www.linkedin.com/in/numanjvd82/)
+- Email: numanjaved2001@gmail.com
