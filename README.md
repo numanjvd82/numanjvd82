@@ -19,11 +19,11 @@ I'm a self-taught web developer with a passion for creating beautiful, responsiv
 
 ## 💼 Work with Me
 
-If you're interested in working with me on a MERN stack development project, I'm currently offering my services on [Fiverr](https://www.fiverr.com/numanjvd82).
+If you're interested in working with me on a MERN stack development project, I'm currently offering my services on [Fiverr](https://www.fiverr.com/numanjvd82) and [Upwork](https://www.upwork.com/freelancers/~0138a30cd04b5e14b6).
 
 My gig offers MERN stack development services with either TypeScript or JavaScript. I'm passionate about building high-quality and scalable web applications using modern technologies.
 
-Feel free to check out my Fiverr gig and contact me if you're interested in working together!
+Feel free to check out my Fiverr gig and Upwork and contact me if you're interested in working together!
 
 
 ## 🎮 Fun Fact
