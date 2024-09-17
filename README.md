@@ -1,6 +1,6 @@
 # Hey there, I'm Numan! 👋
 
-I'm a self-taught web developer with a passion for creating beautiful, responsive websites and web applications. My goal is to become a full-stack developer and to contribute more to open source projects.
+I'm a full-stack web developer with around 3 years of experience. I specialize in creating modern, responsive web applications that solve real-world problems. With expertise in both frontend and backend technologies, I've developed scalable and efficient solutions for various clients, including manufacturing resource planning (MRP) systems and password managers. I'm always looking for new opportunities to contribute to open-source projects and collaborate with the developer community.
 
 ## 💻 Technologies & Tools
 
@@ -11,7 +11,12 @@ I'm a self-taught web developer with a passion for creating beautiful, responsiv
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-yellow?style=flat-square&logo=Node.js)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
+![SQL](https://img.shields.io/badge/-SQL-orange?style=flat-square&logo=postgresql)
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Figma](https://img.shields.io/badge/-Figma-2C2D72?style=flat-square&logo=figma)
@@ -19,16 +24,26 @@ I'm a self-taught web developer with a passion for creating beautiful, responsiv
 
 ## 💼 Work with Me
 
-If you're interested in working with me on a MERN stack development project, I'm currently offering my services on [Fiverr](https://www.fiverr.com/numanjvd82) and [Upwork](https://www.upwork.com/freelancers/~0138a30cd04b5e14b6).
+If you're interested in working with me on a MERN stack or full-stack development project, I'm currently offering my services on [Fiverr](https://www.fiverr.com/numanjvd82) and [Upwork](https://www.upwork.com/freelancers/~0138a30cd04b5e14b6).
 
-My gig offers MERN stack development services with either TypeScript or JavaScript. I'm passionate about building high-quality and scalable web applications using modern technologies.
+I specialize in building secure, scalable web applications using modern technologies like TypeScript, ReactJS, and Node.js. My recent projects include the development of an MRP system that improved production efficiency by 80% and an open-source password manager with state-of-the-art encryption.
 
-Feel free to check out my Fiverr gig and Upwork and contact me if you're interested in working together!
+Feel free to check out my Fiverr gig and Upwork profile to learn more!
 
+## 🔑 Recent Projects
+
+### MRP System
+Built a custom Manufacturing Resource Planning (MRP) system for clients like Batten & Allen, increasing production efficiency by 80%. Developed using ReactJS, TypeScript, and ExpressJS.
+
+### Pass Keeper (Open-Source)
+Developed an open-source password manager with ReactJS, utilizing encryption standards and integrating with the "Have I Been Pwned" API for enhanced security checks. The project is shared with the community for feedback and contributions.
+
+### Multi-Cipher Framework
+Created a multi-cipher encryption framework to demonstrate Caesar, Vigenère, and Autokey ciphers, with options for multiple parameters including text, numbers, and symbols.
 
 ## 🎮 Fun Fact
 
-I'm a part-time gamer too! When I'm not coding, you can find me playing games like Valorant and FIFA.
+I'm also a part-time gamer! When I'm not coding, you'll find me playing Valorant and FIFA.
 
 ## 📈 GitHub Stats
 
@@ -36,5 +51,5 @@ I'm a part-time gamer too! When I'm not coding, you can find me playing games li
 
 ## 📫 Get In Touch
 
-- LinkedIn: [linkedin.com/in/numanjvd82](https://www.linkedin.com/in/numanjvd82/)
+- [LinkedIn](https://www.linkedin.com/in/numan-javed-1ba2b4315)
 - Email: numanjaved2001@gmail.com
