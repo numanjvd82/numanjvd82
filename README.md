@@ -22,14 +22,6 @@ I'm a full-stack web developer with around 3 years of experience. I specialize i
 ![Figma](https://img.shields.io/badge/-Figma-2C2D72?style=flat-square&logo=figma)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
-## 💼 Work with Me
-
-If you're interested in working with me on a MERN stack or full-stack development project, I'm currently offering my services on [Fiverr](https://www.fiverr.com/numanjvd82) and [Upwork](https://www.upwork.com/freelancers/~0138a30cd04b5e14b6).
-
-I specialize in building secure, scalable web applications using modern technologies like TypeScript, ReactJS, and Node.js. My recent projects include the development of an MRP system that improved production efficiency by 80% and an open-source password manager with state-of-the-art encryption.
-
-Feel free to check out my Fiverr gig and Upwork profile to learn more!
-
 ## 🔑 Recent Projects
 
 ### MRP System
@@ -38,12 +30,9 @@ Built a custom Manufacturing Resource Planning (MRP) system for clients like Bat
 ### Pass Keeper (Open-Source)
 Developed an open-source password manager with ReactJS, utilizing encryption standards and integrating with the "Have I Been Pwned" API for enhanced security checks. The project is shared with the community for feedback and contributions.
 
-### Multi-Cipher Framework
-Created a multi-cipher encryption framework to demonstrate Caesar, Vigenère, and Autokey ciphers, with options for multiple parameters including text, numbers, and symbols.
-
 ## 🎮 Fun Fact
 
-I'm also a part-time gamer! When I'm not coding, you'll find me playing Valorant and FIFA.
+When I'm not coding, you'll find me playing games. 
 
 ## 📈 GitHub Stats
 
